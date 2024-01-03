@@ -41,7 +41,7 @@ To run the application on your local machine, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Saurabh-8585/MERN-E-Commerce-Frontend.git
+   git clone https://github.com/Praveen0090/MERN-E-Commerce-Frontend.git
    ```
 
 2. Install the dependencies:
